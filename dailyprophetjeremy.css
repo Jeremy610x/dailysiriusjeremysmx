@@ -1,0 +1,8 @@
+*{margin: 0px;padding: 0px;}
+#contenedor{width: 830px;margin: 0 auto;background-color: #fef2cd;}
+#izquierda{margin-left: 45px;float: left;background-color: #fef2cd}
+#center{margin: 0 auto;float: left;background-color: #fef2cd;}
+#derecha{margin: 0 auto;float: left;background-color: #fef2cd;}
+#sirius{width: 440px;height: 440px;background-color: #fef2cd;}
+#cabecerasirius{margin-left: 45px;background-color: #fef2cd;}
+#piepagina{margin-left: 45px;}
